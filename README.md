@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Contact me on:</h2>
+<h2 align="center">Contact me on:</h2>
 
 ###
 
