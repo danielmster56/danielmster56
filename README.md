@@ -2,15 +2,23 @@
 
 ###
 
-<p align="left">Meu nome é Daniel e eu sou estudante de Analise e Dev de Sistemas e viciados em jogos de RPG :b</p>
+<h2 align="left">Meu nome é Daniel e eu sou estudante de T.I., viciado em café preto e em jogos de RPG ;b</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
 <p align="left">✨ Creating bugs since 1995<br>📚 Sci-fi lover <br>🎯 Goals: Make my passions a living<br>🎲 Fun fact: Gray hear since my 18's but Im not an X-men</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">Languages I'm familiar with:</h3>
 
 ###
 
