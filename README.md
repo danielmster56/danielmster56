@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">EU sou estudante de T.I., <br>viciado em café preto e em jogos de RPG ;b</h3>
+<h3 align="left">Meu nome é Daniel Dias e sou estudante de T.I., <br>viciado em café preto e em jogos de RPG ;b</h3>
 
 ###
 
@@ -58,7 +58,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="twitch.tv/drauzio_vraunela" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width
+="52" height="40" alt="twitch logo"  />
   </a>
 </div>
 
