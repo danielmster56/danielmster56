@@ -14,10 +14,6 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 1995<br>📚 Sci-fi lover <br>🎯 Goals: Make my passions a living<br>🎲 Fun fact: Gray hear since my 18's but Im not an X-men</h3>
-
-###
-
 <p align="left"></p>
 
 ###
