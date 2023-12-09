@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Daniel Dias e sou estudante de T.I., <br>viciado em café preto e em jogos de RPG ;b</h3>
+<h3 align="left">Meu nome é Daniel Dias, atualmente no terceiro período de ADS. <br>viciado em café preto e em jogos de RPG ;b</h3>
 
 ###
 
